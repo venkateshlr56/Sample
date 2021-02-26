@@ -17,6 +17,10 @@ public class CourseDetails {
 		System.out.println("Oracle course");
 	}
 	
+	private void seleniumCourse() {
+		System.out.println("Selenium");
+	}
+	
 	public static void main(String[] args) {
 		//object creation
 		
